@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: darkcyan;
+}
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(219, 133, 133);
+    margin-left: 400px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+input{
+    width: 300px;
+    height: 40px;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 90px;
+}
+#output{
+    margin-top: 45px;
+    width: 100px;
+    background: rgb(161, 165, 161);
+    margin: 100px auto 100px;
+}
+#btn{
+    width: 300px;
+    height: 80px;
+    color: #fff;
+    background-color: rgb(2, 2, 7);
+    border-style: none;
+    border-radius: 15px;
+}
+h1{
+    color: #000;
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: bold;
+}
